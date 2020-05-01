@@ -4,10 +4,9 @@ npm install
 ng serve
 ```
 
-# Directives
+# Services
 ```
-ng g d better-highlight/better-highlight --skipTests true
-ng g d unless --skipTests true
+ng g s logging --skipTests true
 ```
 
 # Git
