@@ -8,6 +8,10 @@ ng serve
 ```
 ng g s logging --skipTests true
 ng g s accounts --skipTests true
+
+ng g s user --skipTests true
+ng g s counter --skipTests true
+
 ```
 
 # Git
