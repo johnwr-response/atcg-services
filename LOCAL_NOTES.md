@@ -7,6 +7,7 @@ ng serve
 # Services
 ```
 ng g s logging --skipTests true
+ng g s accounts --skipTests true
 ```
 
 # Git
