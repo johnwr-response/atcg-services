@@ -19,6 +19,6 @@ ng g s counter --skipTests true
 git init
 git add .
 git commit -m "first commit"
-git remote add origin https://github.com/johnwr-response/atcg-directives.git
+git remote add origin https://github.com/johnwr-response/atcg-services.git
 git push -u origin master
 ```
